@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Otus.Teaching.PromoCodeFactory.IntegrationTests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53589;http://localhost:53590"
+    }
+  }
+}
